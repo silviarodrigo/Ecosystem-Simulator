@@ -2,7 +2,7 @@
 
 This project is a Java-based ecosystem simulation developed in Eclipse. It models the life and interaction between two species within a customizable environment: carnivorous **wolves** and herbivorous **sheep**. The simulation progresses in time steps, allowing the user to monitor the delicate balance of a virtual ecosystem.
 
-This project was created as a practical assignment for a second-year programming course, focusing on Object-Oriented Programming (OOP) principles.
+This project was created focusing on Object-Oriented Programming (OOP) principles.
 
 ## Core Features
 
